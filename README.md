@@ -65,7 +65,7 @@ Saves performance charts directly into the `Output/` folder:
 ```text
 Data-r-Task-2/
 │
-├── 2 nd task.R                 # Main R script containing the full 10-part pipeline
+├── Memory-data               # Main R script containing the full 10-part pipeline
 ├── sales_transactions.csv      # Generated dataset (500,000 rows)
 ├── README.md                   # Project documentation
 └── Output/                     # Generated export folder
